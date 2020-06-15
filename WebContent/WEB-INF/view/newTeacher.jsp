@@ -6,6 +6,7 @@
 
 <style>
 .error{color:red}
+form{ text-align : center}
 </style>
 
 <head>
